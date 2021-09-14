@@ -1,5 +1,4 @@
 # SpaceInvaders
-This is the SpaceInvaders game
 Space Invaders fue uno de los primeros juegos identificados con el género matamarcianos
 o marcianitos. Actualmente está considerado como uno de los videojuegos más
 influyentes e importantes de la historia. El objetivo del juego consiste en controlar una
