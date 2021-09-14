@@ -32,3 +32,5 @@ el jugador ganará cuando haya destruido todas las naves alienígenas, es decir,
 durante el Update, no quedan naves alienígenas en el tablero.
 En esta práctica sólo consideraremos dos tipos de naves alienígenas: Nave común y
 Nave destructora.
+
+![image](https://user-images.githubusercontent.com/49251020/133243058-ace9e3eb-a9dc-4cb2-a8d0-ae8c229e414a.png)
