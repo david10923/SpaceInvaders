@@ -30,6 +30,7 @@ Si una nave alienígena logra llegar a la fila en la que se encuentra UCM-ship o
 UCM-ship se queda sin puntos de daño, el jugador habrá perdido la partida. Sin embargo,
 el jugador ganará cuando haya destruido todas las naves alienígenas, es decir, si
 durante el Update, no quedan naves alienígenas en el tablero.
-En esta práctica sólo consideraremos dos tipos de naves alienígenas: Nave común y
-Nave destructora.
-![image](https://user-images.githubusercontent.com/49251020/133243130-824c08e5-1cb1-4bb6-81aa-40abb751396c.png)
+En esta práctica sólo consideraremos dos tipos de naves alienígenas: Nave común y Nave destructora.
+
+![image](https://user-images.githubusercontent.com/49251020/133243226-367ded9c-75d8-452f-9e6b-d99f6ed89894.png)
+
